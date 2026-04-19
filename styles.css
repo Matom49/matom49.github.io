@@ -1,0 +1,41 @@
+html{
+font-size: 18;
+
+}
+
+.body{
+    background-color: #F0F5F9; ;
+    color: #213555 ;
+    border-color:#213555;
+    margin: 0;
+}
+.h-lista{
+    border-top: 0.7rem solid #F0F5F9;
+    display: flex;
+    position: sticky;
+    text-align: center;
+    background-color: #C9D6DF;
+    height: 3rem;
+    border-radius: 1rem;
+}
+.h-button{
+        flex: 1;
+        background-color: #C9D6DF;
+        border-right: 0.1rem solid #213555;
+        border-left: 0;
+        border-top: 0;
+        border-bottom: 0;
+}
+#nejvic-pravy{
+    border-right: 0;
+}
+.home-button{
+        border: 0;
+        padding: 0;
+}
+.home-button-img{
+    width: auto;
+    height: 3rem;
+    border-radius: 0rem;
+    margin: 0;
+}
